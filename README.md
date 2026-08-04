@@ -24,7 +24,7 @@ Excel (Analysis visualization)
 🔗 Data Source
 Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). Dataset Source
 
-DATA CLEANING AND PREPARATION STEPS 
+## 🧹 Data Cleaning and Preparation 
 - Imported the dataset into Excel, ensuring all column headers were correctly placed in 
 row 1.  
 - Converted the raw data range into an Excel table to enable structured references, easier 
@@ -35,15 +35,15 @@ formatting, and formatted Discount_Pct and Profit_Margin_Pct as percentages
 formatting.  
 - Checked for missing values using filters across key columns and confirmed that no values 
 were missing.  
-➢ Checked for duplicate records using Order_ID with conditional formatting and confirmed 
+- Checked for duplicate records using Order_ID with conditional formatting and confirmed 
 that there were no duplicate orders.  
-➢ Extracted Day, Month, and Year from the original Date column to support time-based 
+- Extracted Day, Month, and Year from the original Date column to support time-based 
 analysis and trend reporting.  
-➢ Sorted Product Name within each Category to make product-level analysis and validation 
+- Sorted Product Name within each Category to make product-level analysis and validation 
 easier.  
-➢ Calculated overall summary metrics, including total Gross Revenue, total Net Revenue, 
+- Calculated overall summary metrics, including total Gross Revenue, total Net Revenue, 
 and total Profit, to validate that the dataset aligns with expected business totals.  
-➢ Gains and Losses columns were calculated to show how much of the business’s sales 
+- Gains and Losses columns were calculated to show how much of the business’s sales 
 generated profit and how much resulted in losses.
 
 🧹 Data Cleaning and Preparation
