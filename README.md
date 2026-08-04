@@ -6,15 +6,15 @@ This analysis explores sales performance, customer behaviour, product profitabil
 The objective of this analysis is to evaluate overall sales performance, product profitability, customer behaviour, and regional and channel trends in order to identify the key drivers of revenue and profit, understand the impact of discounts on margins, and highlight opportunities to improve pricing, retention, and business performance.
 
 ## 📊 Analysis Questions
-Revenue & Profit by Region  
-Revenue & Profit by Category  
-Products by Revenue & Profit  
-Product-based & Transaction-based Gain & Loss  
-Top 3 Products by Quantity Sold  
-Monthly Revenue & Profit Trends  
-Online vs In-store Revenue Performance  
-Impact of Discount on Profit  
-Customer Loyalty Rating
+1. Revenue & Profit by Region  
+2. Revenue & Profit by Category  
+3. Products by Revenue & Profit  
+4. Product-based & Transaction-based Gain & Loss
+5. Top 3 Products by Quantity Sold
+6. Monthly Revenue & Profit Trends
+7. Online vs In-store Revenue Performance
+8. Impact of Discount on Profit
+9. Customer Loyalty Rating
 
 ## 🛠️ Tools Used
 Excel (Initial data preview and quick validation of rows & columns distributions)  
