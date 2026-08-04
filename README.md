@@ -25,15 +25,15 @@ Excel (Analysis visualization)
 Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). Dataset Source
 
 DATA CLEANING AND PREPARATION STEPS 
-➢ Imported the dataset into Excel, ensuring all column headers were correctly placed in 
+- Imported the dataset into Excel, ensuring all column headers were correctly placed in 
 row 1.  
-➢ Converted the raw data range into an Excel table to enable structured references, easier 
+- Converted the raw data range into an Excel table to enable structured references, easier 
 filtering, and consistent validation.  
-➢ Reviewed and standardized data types: formatted Unit_Price, Gross_Revenue, 
+- Reviewed and standardized data types: formatted Unit_Price, Gross_Revenue, 
 Discount_Amount, Net_Revenue, Cost_per_Unit, Total_Cost, and Profit as numbers 
 formatting, and formatted Discount_Pct and Profit_Margin_Pct as percentages 
 formatting.  
-➢ Checked for missing values using filters across key columns and confirmed that no values 
+- Checked for missing values using filters across key columns and confirmed that no values 
 were missing.  
 ➢ Checked for duplicate records using Order_ID with conditional formatting and confirmed 
 that there were no duplicate orders.  
