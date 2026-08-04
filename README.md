@@ -1,20 +1,26 @@
 # 💹 Retail Sales & Profit Analysis
-📌 Overview
-Analysis of Coca-Cola Inc. (KO) daily OHLCV data highlights a robust 60-year growth path (1962 to 2022) that evolved from sparse trading volumes to elevated monthly averages. It narrows down the trends to show steady performance over decades. Power BI visuals use optimized charts to track price and volume growth by month, quarter, and year, and KPI cards to highlight win rates and returns.
+## 📌 Overview
+This analysis explores sales performance, customer behaviour, product profitability, and regional and channel trends for a retail business over the period from 1 January 2025 to 15 May 2026. Using transaction-level sales data, the project evaluates how revenue and profit are distributed across products, months, customers, regions, and sales channels to uncover what drives profitability and where losses occur.
 
-🎯 Objective
-To analyze KO’s historical market performance from 1962 to 2022 by examining trading volume, average closing price, trading consistency, and volatility patterns to understand its short-term and long-term value creation, liquidity, and stability.
+## 🎯 Objective
+The objective of this analysis is to evaluate overall sales performance, product profitability, customer behaviour, and regional and channel trends in order to identify the key drivers of revenue and profit, understand the impact of discounts on margins, and highlight opportunities to improve pricing, retention, and business performance.
 
-📊 Analysis Questions
-Average KO volume by year.
-Average KO volume by month.
-Average KO close price by year.
-Average KO close price by quarter.
-Average KO close price by month.
-🛠️ Tools Used
+## 📊 Analysis Questions
+Revenue & Profit by Region
+Revenue & Profit by Category
+Products by Revenue & Profit
+Product-based & Transaction-based Gain & Loss
+Top 3 Products by Quantity Sold
+Monthly Revenue & Profit Trends
+Online vs In-store Revenue Performance
+Impact of Discount on Profit
+Customer Loyalty Rating
+
+## 🛠️ Tools Used
 Excel (Initial data preview and quick validation of rows & columns distributions)
-Power Query (Data cleaning and preparation)
-Power BI (Analysis visualization)
+Excel (Data cleaning and preparation)
+Excel (Analysis visualization)
+
 🔗 Data Source
 Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). Dataset Source
 
