@@ -12,7 +12,7 @@ The objective of this analysis is to evaluate overall sales performance, product
 4. Product-based & Transaction-based Gain & Loss
 5. Top 3 Products by Quantity Sold
 6. Monthly Revenue & Profit Trends
-7. Online vs In-store Revenue Performance
+7. Online vs In-Store Revenue Performance
 8. Impact of Discount on Profit
 9. Customer Loyalty Rating
 
@@ -46,22 +46,18 @@ and total Profit, to validate that the dataset aligns with expected business tot
 - Gains and Losses columns were calculated to show how much of the business’s sales 
 generated profit and how much resulted in losses.
 
-🧹 Data Cleaning and Preparation
-Standardized column data types for consistency and analysis.
-Checked for duplicates (none were found.)
-Checked for missing values (none were found.)
-Renamed Open, High, Low, and Close with a Price prefix for clarity.
-Created key measures such as Average Close Price, Average Daily Volatility, Total Trading Days, and related metrics.
-📉 Analysis
-Volume of KO Traded – This analysis shows the total trading activity of KO over the selected period, helping to indicate overall market interest and liquidity. The result showed a total volume of 140 billion shares traded over 60 years.
-Total Trading Days – This analysis shows the total trading days covered in the dataset, spanning ~15,000 trading days over the full period under review.
-Close > Open (%) – This metric shows the percentage of trading days when the closing price was higher than the opening price, reflecting how often KO ended the day positively. KO closed higher than it opened on 48% of trading days.
-Average Daily Volatility – This metric measures the average amount KO’s price moved each day. 1.74 Avg Daily Volatility shows a moderate and relatively stable stock over the period.
-Average Volume by Year Analysis – This analysis examines how KO’s trading volume changed over 60 years, from 1962 to 2022. The average annual volume rose from 1,371,885.71 shares in 1962 to 16,810,583.01 shares in 2022. The highest average volume occurred in 2008, reaching 25,264,216.60 shares.
-Average Volume by Month Analysis –This analysis examines how KO’s trading volume varies across the months of the year. The result shows monthly volumes are nearly even, with only about ±5% variation across all 12 months.
-Average Close Price by Year – This analysis examines KO’s average closing price over time to highlight the stock’s growth trend across the study period. The price rose from 0.04 in 1962 to 60.86 in 2022, an increase of about 152,050%.
-Average Closing Price by Quarter – This analysis examines KO’s average closing price across each quarter, helping to reveal short-term performance trends within the year.
-Average Closing Price by Month – This analysis examines KO’s average closing price across each month, helping to identify recurring seasonal patterns and short-term price trends.
+## 📉 Analysis  
+- **Revenue & Profit by Region** examines how sales and profitability are distributed across different regions. It helps identify which regions generate the most revenue and which convert sales into profit most efficiently
+- **Revenue & Profit by Category** shows how much revenue and profit each product category contributes. It helps reveal which categories are the main drivers of performance and which ones contribute less to overall business results.
+- **Products by Revenue & Profit** compares individual products based on how much revenue and profit they generate. It helps identify the best-performing products and shows that high sales volume does not always mean high profit.
+- **Product-based & Transaction-based Gain & Loss** examines which products and individual transactions were profitable or loss-making. It shows the extent to which sales generated gain or loss, helping reveal margin weakness, pricing issues, or discount effects at both the product and transaction levels.
+- **Top 3 Products by Quantity Sold** identifies the products with the highest sales volume. It helps show which items are most popular with customers and whether high volume also translates into strong revenue and profit.
+- **Monthly Revenue & Profit Trends** tracks how sales and profit change over time from month to month. It helps reveal seasonality, peak performance periods, and months where profitability strengthens or weakens.
+- **Online vs In-Store Revenue Performance** compares how revenue is generated across the two sales channels. It helps show which channel contributes more to sales and whether one channel performs better than the other in terms of revenue generation.
+- **Impact of Discount on Profit** measures how different discount levels affect profitability. It helps show whether higher discounts improve sales enough to justify lower margins, or whether they reduce profit overall.
+- **Customer Loyalty Rating** measures how frequently customers return to make repeat purchases. It helps classify customers by loyalty level and shows whether the business is mainly attracting one-time buyers or building long-term customer relationships.
+
+
 🔭 Visualizations
 Screenshot 2026-05-26 093541
 1962-2022 KO Market Performance Summary highlights KO’s long-term trading behaviour, liquidity, and price stability over the 60 years. The KPIs capture total trading volume, the number of trading days analyzed, the percentage of days the stock closed above its opening price, and the average daily volatility. Together, they provide a concise view of KO’s market activity and show how consistently the stock has performed over time.
