@@ -26,7 +26,7 @@ Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). Dataset Source
 
 ## 🧹 Data Cleaning and Preparation 
 - Imported the dataset into Excel, ensuring all column headers were correctly placed in 
-row 1.  
+row one.  
 - Converted the raw data range into an Excel table to enable structured references, easier 
 filtering, and consistent validation.  
 - Reviewed and standardized data types: formatted Unit_Price, Gross_Revenue, 
@@ -58,7 +58,7 @@ generated profit and how much resulted in losses.
 - **Customer Loyalty Rating** measures how frequently customers return to make repeat purchases. It helps classify customers by loyalty level and shows whether the business is mainly attracting one-time buyers or building long-term customer relationships.
 
 
-🔭 Visualizations
+## 🔭 Visualizations  
 Screenshot 2026-05-26 093541
 1962-2022 KO Market Performance Summary highlights KO’s long-term trading behaviour, liquidity, and price stability over the 60 years. The KPIs capture total trading volume, the number of trading days analyzed, the percentage of days the stock closed above its opening price, and the average daily volatility. Together, they provide a concise view of KO’s market activity and show how consistently the stock has performed over time.
 
