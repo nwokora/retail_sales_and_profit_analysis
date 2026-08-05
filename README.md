@@ -67,7 +67,8 @@ generated profit and how much resulted in losses.
 
 **Monthly Revenue & Profit Trends** show how sales and profitability change from month to month, highlighting seasonality and peak performance periods. The analysis found that May 2025 recorded the highest revenue, October 2025 delivered the highest profit, and January was the strongest month overall in both revenue and profit for the year 2026.
 
-Screenshot 2026-05-25 095000
+<img width="583" height="275" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/8260ebb2-d903-4a99-98c0-3bef07320fcc" />
+
 Average Close Price by Year highlights KO’s remarkable long-term price growth, rising from 0.04 in 1962 to a peak of 60.86 in 2022. This steady increase reflects the stock’s enduring strength and long-term value expansion.
 
 💡 Key Insights
