@@ -1,6 +1,6 @@
 # 💹 Retail Sales & Profit Analysis
 ## 📌 Overview
-This analysis explores sales performance, customer behaviour, product profitability, and regional and channel trends for a retail business over the period from 1 January 2025 to 15 May 2026. Using transaction-level sales data, the project evaluates how revenue and profit are distributed across products, months, customers, regions, and sales channels to uncover what drives profitability and where losses occur.
+This analysis explores sales performance, customer behaviour, product profitability, and regional and channel trends for a retail business from 1 January 2025 to 15 May 2026. Using transaction-level sales data, the project evaluates how revenue and profit are distributed across products, months, customers, regions, and sales channels to uncover the drivers of profitability and where losses occur.
 
 ## 🎯 Objective
 The objective of this analysis is to evaluate overall sales performance, product profitability, customer behaviour, and regional and channel trends in order to identify the key drivers of revenue and profit, understand the impact of discounts on margins, and highlight opportunities to improve pricing, retention, and business performance.
@@ -65,7 +65,7 @@ generated profit and how much resulted in losses.
 
 <img width="674" height="429" alt="Monthly Revenue   Profit Trends" src="https://github.com/user-attachments/assets/11a133a4-e5a3-40c9-a053-3a79602c89d6" />
 
-**Monthly Revenue & Profit Trends** show how sales and profitability change from month to month, revealing seasonality and performance spikes. The analysis found that May 2025, October 2025, and January 2026 were the strongest months, with January 2026 delivering the highest revenue and profit overall.
+**Monthly Revenue & Profit Trends** show how sales and profitability change from month to month, highlighting seasonality and peak performance periods. The analysis found that May 2025 recorded the highest revenue, October 2025 delivered the highest profit, and January was the strongest month overall in both revenue and profit for the year 2026.
 
 Screenshot 2026-05-25 095000
 Average Close Price by Year highlights KO’s remarkable long-term price growth, rising from 0.04 in 1962 to a peak of 60.86 in 2022. This steady increase reflects the stock’s enduring strength and long-term value expansion.
