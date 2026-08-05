@@ -73,7 +73,7 @@ generated profit and how much resulted in losses.
 
 Average Close Price by Year highlights KO’s remarkable long-term price growth, rising from 0.04 in 1962 to a peak of 60.86 in 2022. This steady increase reflects the stock’s enduring strength and long-term value expansion.
 
-💡 Key Insights
+## 💡 Key Insights  
 Over the 60 years analysed, KO demonstrated exceptional long-term resilience and value creation. The stock rose from 0.04 to 60.86, representing a growth of about 152,050%, while maintaining an average daily volatility of just 1.74%. This combination of strong appreciation and relatively modest volatility suggests a stock that has delivered substantial returns without excessive instability.
 
 KO also demonstrated consistently strong market participation. About 140 billion shares were traded over the period. The stock closed above its open on roughly 48% of trading days, and monthly volume remained highly stable, varying by only about ±5%.
