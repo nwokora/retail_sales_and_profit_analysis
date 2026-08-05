@@ -60,6 +60,7 @@ generated profit and how much resulted in losses.
 
 ## 🔭 Visualizations  
 <img width="651" height="289" alt="Revenue   Profit by Category" src="https://github.com/user-attachments/assets/387a9eba-bd26-4070-bd99-1626c31b5127" />    
+
 Revenue & Profit by Category shows how each product category contributes to business performance. Clothing was the best-performing category, contributing 46% ($136,291) of total revenue and 47% ($46,515) of total profit.
 
 image
