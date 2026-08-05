@@ -69,6 +69,7 @@ generated profit and how much resulted in losses.
 
 <img width="649" height="277" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/78ab87a5-4ada-4bcd-b53b-3eed74c1bd99" />
 
+<img width="585" height="446" alt="Product-based   Transaction-based Gain   Loss" src="https://github.com/user-attachments/assets/925d456d-cf83-4685-b781-50ea9f5b1871" />
 
 Average Close Price by Year highlights KO’s remarkable long-term price growth, rising from 0.04 in 1962 to a peak of 60.86 in 2022. This steady increase reflects the stock’s enduring strength and long-term value expansion.
 
