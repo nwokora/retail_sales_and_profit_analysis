@@ -63,7 +63,7 @@ generated profit and how much resulted in losses.
 
 **Revenue & Profit by Category** shows how each product category contributes to business performance. Clothing was the best-performing category, contributing 46% ($136,291) of total revenue and 47% ($46,515) of total profit.
 
-<img width="675" height="500" alt="Monthly Revenue   Profit Trends" src="https://github.com/user-attachments/assets/307b5860-051e-42b2-83ef-20a4ae4ebc17" />
+<img width="674" height="429" alt="Monthly Revenue   Profit Trends" src="https://github.com/user-attachments/assets/11a133a4-e5a3-40c9-a053-3a79602c89d6" />
 
 Average Volume Traded by Year shows that KO’s trading activity increased substantially over time, rising from 1,371,885.71 in 1962 to 16,810,583.01. The peak in 2008 at 25,264,216.60 suggests unusually strong market participation during that year.
 
