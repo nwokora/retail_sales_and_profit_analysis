@@ -69,7 +69,7 @@ generated profit and how much resulted in losses.
 
 <img width="649" height="277" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/78ab87a5-4ada-4bcd-b53b-3eed74c1bd99" />
 
-Impact of Discount on Profit shows how different discount levels affect profitability. The analysis found that deeper discounts reduced margins sharply, with 15% and 20% discounts performing worst, while 10% was the only discount level to show a positive average profit margin.
+**Impact of Discount on Profit** shows how different discount levels affect profitability. The analysis found that deeper discounts reduced margins sharply, with 15% and 20% discounts performing worst, while 10% was the only discount level to show a positive average profit margin.
 
 <img width="585" height="446" alt="Product-based   Transaction-based Gain   Loss" src="https://github.com/user-attachments/assets/925d456d-cf83-4685-b781-50ea9f5b1871" />
 
