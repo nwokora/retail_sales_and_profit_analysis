@@ -59,8 +59,8 @@ generated profit and how much resulted in losses.
 
 
 ## 🔭 Visualizations  
-Screenshot 2026-05-26 093541
-1962-2022 KO Market Performance Summary highlights KO’s long-term trading behaviour, liquidity, and price stability over the 60 years. The KPIs capture total trading volume, the number of trading days analyzed, the percentage of days the stock closed above its opening price, and the average daily volatility. Together, they provide a concise view of KO’s market activity and show how consistently the stock has performed over time.
+<img width="646" height="287" alt="Revenue   Profit by Category" src="https://github.com/user-attachments/assets/03f61ab6-1e4b-4d1e-9e74-4392f9236d01" />
+Revenue & Profit by Category shows how each product category contributes to business performance. Clothing was the best-performing category, contributing 46% ($136,291) of total revenue and 47% ($46,515) of total profit.
 
 image
 Average Volume Traded by Year shows that KO’s trading activity increased substantially over time, rising from 1,371,885.71 in 1962 to 16,810,583.01. The peak in 2008 at 25,264,216.60 suggests unusually strong market participation during that year.
