@@ -1,6 +1,6 @@
 ## ANALYSIS FINDINGS & INSIGHTS 
 ### 📈 SALES PERFORMANCE 
-#### Overall results 
+#### - Overall results 
 Overall sales performance is strong but uneven across months and product categories. 
 Between 1 January 2025 and 15 May 2026, the business sold 2,467 items, generating 
 $294,348 in revenue and $99,064 in profit, for an overall profit margin of about 34%, even 
