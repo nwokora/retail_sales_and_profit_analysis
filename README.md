@@ -78,7 +78,8 @@ generated profit and how much resulted in losses.
 ## 💡 Key Insights  
 - **Strong but uneven profitability**: The business generated $294,348 in revenue and $99,064 in profit, with Clothing, Sneakers, and T-shirts as key contributors; however, performance varied by month, product, discount level, and region.
 
-- **Growth and margin opportunities**: Over 60% of customers were one-time buyers, while deeper discounts and online sales weakened margins, highlighting opportunities to improve retention, pricing, discount control, and channel profitability.
+- **Growth and margin opportunities**: Over 60% of customers were one-time buyers, while deeper discounts and online sales weakened margins, highlighting opportunities to improve retention, pricing, discount control, and channel profitability.  
+  **[See Insights](https://github.com/nwokora/retail_sales_and_profit_analysis/blob/main/insights.md)**
 
 ## 📂 Repository Layout  
 - **📈 analysis charts** – Final analysis visuals (PNG)  
