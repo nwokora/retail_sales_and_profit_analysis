@@ -4,9 +4,7 @@
 Overall sales performance is strong but uneven across months and product categories. 
 Between 1 January 2025 and 15 May 2026, the business sold 2,467 items, generating 
 $294,348 in revenue and $99,064 in profit, for an overall profit margin of about 34%, even 
-though across all products sold about 32% of sales were made at a loss. Clothing is the core 
-sales and profit engine, contributing 46% of total revenue and 47% of total profit, with 
-Sneakers and T-shirts among the leading products by both revenue and profit. 
+though across all products sold about 32% of sales were made at a loss. Clothing was the best-performing category, contributing 46% of total revenue and 47% of total profit. However, this result may partly reflect its broader product assortment, as Clothing contains three products. 
 #### Monthly trends and seasonality 
 Monthly trends show possible seasonal patterns and performance spikes. In 2025, May recorded the 
 highest revenue at $21,678 with a profit of $7,792, while October delivered the highest 
