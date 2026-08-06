@@ -73,7 +73,7 @@ generated profit and how much resulted in losses.
 
 <img width="585" height="446" alt="Product-based   Transaction-based Gain   Loss" src="https://github.com/user-attachments/assets/925d456d-cf83-4685-b781-50ea9f5b1871" />
 
-Average Close Price by Year highlights KO’s remarkable long-term price growth, rising from 0.04 in 1962 to a peak of 60.86 in 2022. This steady increase reflects the stock’s enduring strength and long-term value expansion.
+**Product-based & Transaction-based Gain & Loss** shows the proportion of sales that generated profit compared with those that resulted in losses. The analysis found that 68% of sales were made at a gain, while 32% were made at a loss, indicating that the business is profitable overall but still has a significant share of loss-making transactions.
 
 ## 💡 Key Insights  
 Over the 60 years analysed, KO demonstrated exceptional long-term resilience and value creation. The stock rose from 0.04 to 60.86, representing a growth of about 152,050%, while maintaining an average daily volatility of just 1.74%. This combination of strong appreciation and relatively modest volatility suggests a stock that has delivered substantial returns without excessive instability.
