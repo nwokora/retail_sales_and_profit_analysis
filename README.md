@@ -76,11 +76,9 @@ generated profit and how much resulted in losses.
 **Product-based & Transaction-based Gain & Loss** shows the proportion of sales that generated profit compared with those that resulted in losses. The analysis found that 68% of sales were made at a gain, while 32% were made at a loss, indicating that the business is profitable overall but still has a significant share of loss-making transactions.
 
 ## 💡 Key Insights  
-Over the 60 years analysed, KO demonstrated exceptional long-term resilience and value creation. The stock rose from 0.04 to 60.86, representing a growth of about 152,050%, while maintaining an average daily volatility of just 1.74%. This combination of strong appreciation and relatively modest volatility suggests a stock that has delivered substantial returns without excessive instability.
+- **Strong but uneven profitability**: The business generated $294,348 in revenue and $99,064 in profit, with Clothing, Sneakers, and T-shirts as key contributors; however, performance varied by month, product, discount level, and region.
 
-KO also demonstrated consistently strong market participation. About 140 billion shares were traded over the period. The stock closed above its open on roughly 48% of trading days, and monthly volume remained highly stable, varying by only about ±5%.
-
-In practical terms, these metrics suggest that KO has enjoyed broad global acceptance, likely supported by the enduring strength of its beverage brands and its reputation as a stable, highly liquid stock. The consistency in volume, modest volatility, and strong long-term appreciation all indicate a stock that has been attractive to both short-term traders and long-term investors. See Insights Here
+- **Growth and margin opportunities**: Over 60% of customers were one-time buyers, while deeper discounts and online sales weakened margins, highlighting opportunities to improve retention, pricing, discount control, and channel profitability.
 
 ## 📂 Repository Layout  
 - **📈 analysis charts** – Final analysis visuals (PNG)  
