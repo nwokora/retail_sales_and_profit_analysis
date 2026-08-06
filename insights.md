@@ -53,7 +53,7 @@ and 5% discounts, the margins remain negative (-11% and -8%). At higher discount
 discounts significantly erode profitability and are not compensated by higher sales. 
 ### REGIONAL AND CHANNEL PERFORMANCE 
 #### Regional efficiency 
-Regionally, profit conversion across regions ranges from roughly $19,000 to $27,000. While 
+Profit conversion across regions ranges from roughly $19,000 to $27,000. While 
 the North generates the highest revenue at $81,211, the South achieves comparable profit 
 from a lower revenue base of $71,008. This indicates that the South is more successful at 
 turning sales into profit and may benefit from a more favourable product mix, pricing 
