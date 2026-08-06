@@ -1,5 +1,5 @@
 ## ANALYSIS FINDINGS & INSIGHTS 
-### SALES PERFORMANCE 
+### 📈 SALES PERFORMANCE 
 #### Overall results 
 Overall sales performance is strong but uneven across months and product categories. 
 Between 1 January 2025 and 15 May 2026, the business sold 2,467 items, generating 
@@ -8,7 +8,7 @@ though across all products sold about 32% of sales were made at a loss. Clothing
 sales and profit engine, contributing 46% of total revenue and 47% of total profit, with 
 Sneakers and T-shirts among the leading products by both revenue and profit. 
 #### Monthly trends and seasonality 
-Monthly trends show clear seasonality and performance spikes. In 2025, May recorded the 
+Monthly trends show possible seasonal patterns and performance spikes. In 2025, May recorded the 
 highest revenue at $21,678 with a profit of $7,792, while October delivered the highest 
 profit at $10,800 despite slightly lower revenue of $20,405. In 2026, January posted the 
 highest revenue at $20,090 and the highest profit at $9,268, making it the strongest single 
@@ -19,7 +19,7 @@ in October 2025 and May 2026 to weaker but still positive margins of 14% and 13%
 December 2025 and January 2025, respectively. This indicates that profitability varied 
 significantly across months, likely driven by shifts in product mix, pricing, discount intensity, 
 or underlying cost structure. 
-### CUSTOMER BEHAVIOUR 
+### 👥 CUSTOMER BEHAVIOUR 
 #### Purchase patterns and loyalty 
 Customer behaviour currently leans heavily toward one-time purchases rather than 
 long-term loyalty. Most customers are one-time buyers (more than 60%), with only a small 
@@ -30,7 +30,7 @@ customer lifetime value.
 Channel usage is relatively balanced but slightly skewed toward digital. Of all items sold, 51% 
 were purchased online and 49% in-store, indicating that customers actively use both 
 channels.  
-### PRODUCT PROFITABILITY 
+### 💰 PRODUCT PROFITABILITY 
 #### Category-level profitability 
 Product profitability is concentrated in a few key items and does not always align with 
 volume. Clothing is the most profitable category, driving nearly half of total revenue and 
@@ -51,7 +51,7 @@ increase. At a 10% discount level, the average profit margin is positive (+5%), 
 and 5% discounts, the margins remain negative (-11% and -8%). At higher discount levels 
 (15% and 20%), profit margins deteriorate sharply to -43% and -17%, indicating that deeper 
 discounts significantly erode profitability and are not compensated by higher sales. 
-### REGIONAL AND CHANNEL PERFORMANCE 
+### 🌍 REGIONAL AND CHANNEL PERFORMANCE 
 #### Regional efficiency 
 Profit conversion across regions ranges from roughly $19,000 to $27,000. While 
 the North generates the highest revenue at $81,211, the South achieves comparable profit 
