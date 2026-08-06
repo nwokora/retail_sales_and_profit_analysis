@@ -1,4 +1,4 @@
-## ANALYSIS FINDINGS & INSIGHTS 
+## 💡 ANALYSIS FINDINGS & INSIGHTS 
 ### 📈 SALES PERFORMANCE 
 #### Overall results  
 Overall sales performance is strong but uneven across months and product categories. 
