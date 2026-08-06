@@ -82,11 +82,11 @@ KO also demonstrated consistently strong market participation. About 140 billion
 
 In practical terms, these metrics suggest that KO has enjoyed broad global acceptance, likely supported by the enduring strength of its beverage brands and its reputation as a stable, highly liquid stock. The consistency in volume, modest volatility, and strong long-term appreciation all indicate a stock that has been attractive to both short-term traders and long-term investors. See Insights Here
 
-📂 Repository Layout  
-📈 analysis charts – Final analysis visuals (PNG)  
-🗄️ dataset – Raw dataset and cleaned CSV files  
-📋 group tables – Pandas aggregated tables in CSV files  
-⚙️ process charts – Technical work steps visual (PNG)  
-📖 README.md – Project overview  
-🔎 Analysis Findings – All metrics and findings from the analysis  
-💡 insights.md – All insights from analysis  
+## 📂 Repository Layout  
+- **📈 analysis charts** – Final analysis visuals (PNG)  
+- **🗄️ dataset** – Raw dataset and cleaned CSV files  
+- **📋 group tables** – Pandas aggregated tables in CSV files  
+- **⚙️ process charts** – Technical work steps visual (PNG)  
+- **📖 README.md** – Project overview  
+- **🔎 Analysis Findings** – All metrics and findings from the analysis  
+- **💡 insights.md** – All insights from analysis  
