@@ -76,7 +76,7 @@ generated profit and how much resulted in losses.
 **Product-based & Transaction-based Gain & Loss** shows the proportion of sales that generated profit compared with those that resulted in losses. The analysis found that 68% of sales were made at a gain, while 32% were made at a loss, indicating that the business is profitable overall but still has a significant share of loss-making transactions.
 
 ## 💡 Key Insights  
-- **Strong but uneven profitability**: The business generated $294,348 in revenue and $99,064 in profit, with Clothing, Sneakers, and T-shirts as key contributors; however, performance varied by month, product, discount level, and region.
+- **Strong but uneven profitability**: The business generated $294,348 in revenue and $99,064 in profit, with Clothing emerging as a key contributor, partly because it has the largest number of products in its category. However, performance varied by month, product, discount level, and region.
 
 - **Growth and margin opportunities**: Over 60% of customers were one-time buyers, while deeper discounts and online sales weakened margins, highlighting opportunities to improve retention, pricing, discount control, and channel profitability.  
   **[See Insights](https://github.com/nwokora/retail_sales_and_profit_analysis/blob/main/insights.md)**
