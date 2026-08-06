@@ -3,7 +3,7 @@
 This analysis explores sales performance, customer behaviour, product profitability, and regional and channel trends for a retail business from 1 January 2025 to 15 May 2026. Using transaction-level sales data, the project evaluates how revenue and profit are distributed across products, months, customers, regions, and sales channels to uncover the drivers of profitability and where losses occur.
 
 ## 🎯 Objective
-The objective of this analysis is to evaluate overall sales performance, product profitability, customer behaviour, and regional and channel trends in order to identify the key drivers of revenue and profit, understand the impact of discounts on margins, and highlight opportunities to improve pricing, retention, and business performance.
+The objective of this analysis is to evaluate overall sales performance, product profitability, customer behaviour, and regional and channel trends to identify the key drivers of revenue and profit, understand the impact of discounts on margins, and highlight opportunities to improve pricing, retention, and overall business performance.
 
 ## 📊 Analysis Questions
 1. Revenue & Profit by Region  
@@ -17,7 +17,7 @@ The objective of this analysis is to evaluate overall sales performance, product
 9. Customer Loyalty Rating
 
 ## 🛠️ Tools Used
-Excel (Initial data preview and quick validation of rows & columns distributions)  
+Excel (Initial data preview and quick validation of row and column distributions)  
 Excel (Data cleaning and preparation)  
 Excel (Analysis visualization)
 
@@ -82,11 +82,11 @@ KO also demonstrated consistently strong market participation. About 140 billion
 
 In practical terms, these metrics suggest that KO has enjoyed broad global acceptance, likely supported by the enduring strength of its beverage brands and its reputation as a stable, highly liquid stock. The consistency in volume, modest volatility, and strong long-term appreciation all indicate a stock that has been attractive to both short-term traders and long-term investors. See Insights Here
 
-📂 Repository Layout
-📈 analysis charts – Final analysis visuals (PNG)
-🗄️ dataset – Raw dataset and cleaned CSV files
-📋 group tables – Pandas aggregated tables in CSV files
-⚙️ process charts – Technical work steps visual (PNG)
-📖 README.md – Project overview
-🔎 Analysis Findings – All metrics and findings from the analysis
-💡 insights.md – All insights from analysis
+📂 Repository Layout  
+📈 analysis charts – Final analysis visuals (PNG)  
+🗄️ dataset – Raw dataset and cleaned CSV files  
+📋 group tables – Pandas aggregated tables in CSV files  
+⚙️ process charts – Technical work steps visual (PNG)  
+📖 README.md – Project overview  
+🔎 Analysis Findings – All metrics and findings from the analysis  
+💡 insights.md – All insights from analysis  
