@@ -1,6 +1,8 @@
 # 💹 Retail Sales & Profit Analysis
 ## 📌 Overview
-This analysis explores sales performance, customer behaviour, product profitability, and regional and channel trends for a retail business from 1 January 2025 to 15 May 2026. Using transaction-level sales data, the project evaluates how revenue and profit are distributed across products, months, customers, regions, and sales channels to uncover the drivers of profitability and where losses occur.
+This analysis explores sales performance, customer behaviour, product profitability, and regional and sales-channel trends for a retail business between 1 January 2025 and 15 May 2026. It evaluates how revenue and profit vary across products, months, customers, regions, and sales channels to identify the key drivers of profitability.
+
+The analysis focuses on identifying the main contributors to business performance, investigating loss-making products and transactions, and evaluating the relationship between discounts and profitability. It concludes with practical recommendations and areas for further investigation.
 
 ## 🎯 Objective
 The objective of this analysis is to evaluate overall sales performance, product profitability, customer behaviour, and regional and channel trends to identify the key drivers of revenue and profit, understand the impact of discounts on margins, and highlight opportunities to improve pricing, retention, and overall business performance.
