@@ -71,7 +71,7 @@ generated profit and how much resulted in losses.
 
 **Impact of Discount on Profit** shows how different discount levels affect profitability. The analysis found that deeper discounts reduced margins sharply, with 15% and 20% discounts performing worst, while 10% was the only discount level to show a positive average profit margin.
 
-<img width="874" height="235" alt="Product-based   Transaction-based Gain   Loss" src="https://github.com/user-attachments/assets/71729b97-8011-41ab-9c40-560f672e5358" />
+<img width="841" height="287" alt="Product-based   Transaction-based Gain   Loss" src="https://github.com/user-attachments/assets/40179abd-fcc9-41ac-ae2a-67b8b3809d90" />
 
 **Product-based & Transaction-based Gain & Loss** shows the proportion of sales that generated profit compared with those that resulted in losses. The analysis found that 68% of sales were made at a gain, while 32% were made at a loss, indicating that the business is profitable overall but still has a significant share of loss-making transactions.
 
