@@ -1,3 +1,4 @@
+#📌 Analysis Recommendations
 - Review the products and discount levels associated with negative profit margins.
 
 - Set discount limits for the 15% and 20% bands, which produced the weakest margins.
