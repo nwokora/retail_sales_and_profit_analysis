@@ -23,9 +23,6 @@ Excel (Initial data preview and quick validation of row and column distributions
 Excel (Data cleaning and preparation)  
 Excel (Analysis visualization)
 
-🔗 Data Source
-Coca-Cola Stock Dataset (1962–2022) by Kalilur Rahman (Kaggle). Dataset Source
-
 ## 🧹 Data Cleaning and Preparation 
 - Imported the dataset into Excel, ensuring all column headers were correctly placed in 
 row one.  
@@ -84,10 +81,8 @@ generated profit and how much resulted in losses.
   **[See Insights](https://github.com/nwokora/retail_sales_and_profit_analysis/blob/main/insights.md)**
 
 ## 📂 Repository Layout  
-- **📈 analysis charts** – Final analysis visuals (PNG)  
-- **🗄️ dataset** – Raw dataset and cleaned CSV files  
-- **📋 group tables** – Pandas aggregated tables in CSV files  
-- **⚙️ process charts** – Technical work steps visual (PNG)  
+- **📈 analysis charts** – Final analysis visuals (PNG)   
+- **⚙️ process charts** – Technical work steps visuals (PNG)  
 - **📖 README.md** – Project overview  
-- **🔎 Analysis Findings** – All metrics and findings from the analysis  
-- **💡 insights.md** – All insights from analysis  
+- **💡 insights.md** – All insights from analysis
+- **📌 Recommendation.md** – All Recommendation from analysis
