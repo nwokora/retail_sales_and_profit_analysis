@@ -67,7 +67,7 @@ generated profit and how much resulted in losses.
 
 <img width="674" height="429" alt="Monthly Revenue   Profit Trends" src="https://github.com/user-attachments/assets/11a133a4-e5a3-40c9-a053-3a79602c89d6" />
 
-**Monthly Revenue & Profit Trends** show how sales and profitability change from month to month, highlighting seasonality and peak performance periods. The analysis found that May 2025 recorded the highest revenue, October 2025 delivered the highest profit, and January was the strongest month overall in both revenue and profit for the year 2026.
+**Monthly Revenue & Profit Trends** show how sales and profitability change from month to month, highlighting seasonality and peak performance periods. The analysis found that May, July, and August 2025 recorded the highest revenue, October 2025 delivered the highest profit, while January and February were the strongest months overall in both revenue and profit for the year 2026.
 
 <img width="649" height="277" alt="Impact of Discount on Profit" src="https://github.com/user-attachments/assets/78ab87a5-4ada-4bcd-b53b-3eed74c1bd99" />
 
