@@ -1,12 +1,13 @@
 ## 📌Analysis Recommendations
 - Review the products and discount levels associated with negative profit margins.
 
-- Set discount limits for the 15% and 20% bands, which produced the weakest margins.
+- Limit 15% and 20% discounts because they produce the weakest margins to help protect profitability while maintaining controlled promotions.
 
-- Investigate why some sales at 0% and 5% discounts were still loss-making.
+- Investigate losses at 0% and 5% discounts to uncover pricing errors, high costs, fees, returns, or other problems affecting profit.
 
-- Use the stronger in-store margin performance to review online pricing, fees, and discounting.
+- Develop customer-retention strategies to turn one-time buyers into repeat customers to increase long-term sales and reduce reliance on attracting new customers.
 
-- Develop retention strategies to convert one-time buyers into repeat customers.
+- Compare average profit per product within each category to account for differences in product volume and identify the categories and products that are genuinely most profitable.
 
-- Compare average profit per product within each category, since Clothing contains more products than some other categories.
+
+
